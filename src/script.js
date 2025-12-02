@@ -45,9 +45,9 @@ btnSim.addEventListener('click', () => {
 
     // 4. WhatsApp
     setTimeout(() => {
-        const seuNumero = "5511934994424"; // <-- SEU NÚMERO
+        const seuNumero = "5511999999999"; // <-- SEU NÚMERO
         const mensagem = "Eu disse SIM! Te amo! ❤️";
-        const linkZap = `https://wa.me/5511934994424?text=Eu%20aceito%20seu%20pedido`;
+        const linkZap = `https://wa.me/551199999999?text=Eu%20aceito%20seu%20pedido`;
         window.open(linkZap, "_blank");
     }, 5000); // 5 segundos para aproveitar a festa
 });
@@ -98,4 +98,5 @@ function chuvaDeConfetes() {
       }));
 
     }, 250);
+
 }
